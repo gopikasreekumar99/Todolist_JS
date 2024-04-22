@@ -1,6 +1,7 @@
-This repository contains a simple Todo List implemented in JavaScript. The Todo List allows users to add tasks, mark tasks as done, delete tasks, clear completed tasks, and remove all tasks.
+<h1>Todo List with JavaScript</h1>
+<p> This repository contains a simple Todo List implemented in JavaScript. The Todo List allows users to add tasks, mark tasks as done, delete tasks, clear completed tasks, and remove all tasks. </p>
 
-Features:
+<h2> Features: </h2>
 
 Add tasks: Users can add new tasks to the list.
 
